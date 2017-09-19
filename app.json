@@ -1,4 +1,5 @@
 {
-  "name": "CasaCalida",
-  "displayName": "CasaCalida"
+  "expo": {
+    "sdkVersion": "20.0.0"
+  }
 }
