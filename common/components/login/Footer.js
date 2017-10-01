@@ -6,11 +6,11 @@
 import React from 'react';
 import { View, Text } from 'react-native';
 
-export default class Logo extends React.Component {
+export default class Footer extends React.Component {
   render() {
     return (
-      <View style={{flex: 2, backgroundColor: 'powderblue', justifyContent: 'center', alignItems: 'center'}}>
-        <Text>CASA-CALIDA</Text>
+      <View style={{flex: 1, backgroundColor: 'steelblue'}}>
+        <Text>FOOTER</Text>
       </View>
     );
   }
